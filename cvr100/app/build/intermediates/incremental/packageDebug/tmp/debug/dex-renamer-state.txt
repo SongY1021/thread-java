@@ -1,0 +1,7 @@
+#Tue Dec 17 14:05:47 CST 2019
+base.0=E\:\\anzhuo\\cvr100\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=E\:\\anzhuo\\cvr100\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out

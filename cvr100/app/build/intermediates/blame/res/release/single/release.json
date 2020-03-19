@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\M\\Desktop\\cvr100\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\M\\Desktop\\cvr100\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\M\\Desktop\\cvr100\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\M\\Desktop\\cvr100\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\M\\Desktop\\cvr100\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\M\\Desktop\\cvr100\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\M\\Desktop\\cvr100\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\M\\Desktop\\cvr100\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\M\\Desktop\\cvr100\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\M\\Desktop\\cvr100\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\M\\Desktop\\cvr100\\app\\build\\intermediates\\res\\merged\\release\\xml_device_filter.xml.flat",
+        "source": "C:\\Users\\M\\Desktop\\cvr100\\app\\src\\main\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\M\\Desktop\\cvr100\\app\\build\\intermediates\\res\\merged\\release\\menu_main.xml.flat",
+        "source": "C:\\Users\\M\\Desktop\\cvr100\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\M\\Desktop\\cvr100\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\M\\Desktop\\cvr100\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

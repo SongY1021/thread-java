@@ -1,0 +1,81 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml
+		INJECTED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml
+		INJECTED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml
+		INJECTED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.usb.host
+ADDED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:7:5-61
+	android:name
+		ADDED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:7:19-59
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:11:5-83
+	android:name
+		ADDED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:11:22-81
+application
+ADDED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:17:5-39:19
+	android:label
+		ADDED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:21:9-40
+activity#com.huashi.otg.MainActivity
+ADDED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:22:9-36:20
+	android:label
+		ADDED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:24:13-45
+	android:name
+		ADDED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:23:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:28:27-74
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:33:13-35:56
+	android:resource
+		ADDED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:35:17-54
+	android:name
+		ADDED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml:34:17-79
+uses-sdk
+INJECTED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml
+INJECTED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml
+INJECTED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml
+INJECTED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml
+		ADDED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml
+		INJECTED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml
+		ADDED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml
+		INJECTED from E:\anzhuo\cvr100\app\src\main\AndroidManifest.xml

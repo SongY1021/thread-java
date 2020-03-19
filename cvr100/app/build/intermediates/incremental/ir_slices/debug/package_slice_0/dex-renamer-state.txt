@@ -1,0 +1,4 @@
+#Tue Dec 17 14:00:29 CST 2019
+base.0=E\:\\anzhuo\\cvr100\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
